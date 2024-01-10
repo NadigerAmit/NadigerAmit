@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NadigerAmit
 - 👀 I’m interested in Rust, C++ , C, Kotlin ,Android , Blockchain
-- 🌱 I’m currently learning Rust, Blockchain
-- 💞️ I’m looking to collaborate on ... Blockchain , rust
+- 💞️ I’m looking to collaborate on ... Blockchain , Rust
 - 📫 How to reach me ... amith.nadiger@gmail.com
 
 <!---
