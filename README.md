@@ -8,6 +8,7 @@
 
 
 Accomplished senior innovative, results-driven engineer with a comprehensive background in RustC,C++ programming and blockchain development, specializing in architecting and delivering high-performance, secure, and scalable systems. Proficient in leveraging Rust's capabilities to build robust applications across diverse domains. Also passionate about crafting robust solutions that leverage blockchain technology to drive efficiency and security across diverse industries.
+
   -------------------------------------------------------------------------------------------------
 **Skills**
 
