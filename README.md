@@ -3,7 +3,7 @@
 **About Me**
 - 👋 Hi, I’m @NadigerAmit
 - 👀 I’m interested in Rust, C++ , C, Kotlin ,Android , Blockchain
-- 💞️ I’m looking to collaborate on ... Blockchain , Rust
+- 💞️ I’m looking to collaborate on ... C,C++, Android, Blockchain , Rust
 - 📫 How to reach me ... amith.nadiger@gmail.com
 
 
