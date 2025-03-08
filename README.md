@@ -1,4 +1,4 @@
-**Senior Rust & Blockchain Engineer 👋**
+**Senior C, C++, Rust, Kotlin, Linux, Android & Blockchain Engineer 👋**
   -------------------------------------------------------------------------------------------------
 **About Me**
 - 👋 Hi, I’m @NadigerAmit
